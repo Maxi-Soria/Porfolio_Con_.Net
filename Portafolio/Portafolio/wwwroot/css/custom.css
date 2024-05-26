@@ -17,3 +17,21 @@
     line-height: 1.5;
     font-size: 1.25rem;
 }
+
+.seccion-descripcion {
+    background-color: darkslategrey;
+}
+
+.cabecera{
+    font-weight: bold;
+}
+
+.habilidades ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: darkblue;
+    font-size: 40px
+}
